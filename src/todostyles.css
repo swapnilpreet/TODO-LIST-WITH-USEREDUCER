@@ -1,0 +1,19 @@
+.Appheader{
+    color: aqua;
+    text-align: center;
+
+}
+.inputbox{
+    width: 30%;
+    height: 25px;
+}
+.btn1{
+   background-color: rgb(50, 50, 206);
+   color: white;
+   /* border: none; */
+   margin-right: 10px;
+}
+.btn2{
+    background-color: rgb(214, 34, 190);
+    color: white;
+ }
